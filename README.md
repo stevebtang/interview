@@ -18,9 +18,6 @@ If we pass in Anchorage, Alska, United States, we would want to get back the ID 
 Example
 If we pass ID X, we return all locations that have the Parent ID X.
 
-Please create a library to do the above. Method signatures can be at your discretion. 
-
-Time Limit 2 hrs. 
-Please checkin code within two hours that exercise is issued.
+Please create a library to do the above. Provide (short) documentation for usage. 
 
 Language : Python/Java
